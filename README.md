@@ -35,25 +35,6 @@ For more information on the technologies that power the AviaxMusic, check out th
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/AviaxSupport)
 
-
-## 🖇 Prerequisites
-
-> In order to avoid conflicts in your project, you must have/installed
-
-- [Python3.9](https://www.python.org/downloads/release/python-390/)
-- [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
-- [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
-
-
-## 🖇 Generating Pyrogram String Session
-
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
-
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
-
-
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy AviaxMusic on Heroku!</h4>    
