@@ -1,18 +1,15 @@
-<img src="https://telegra.ph/file/7f06a0170136896d8bf46.jpg" align="right" width="200" height="200"/>
 
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/TechShreyash/SiestaXMusic">SiestaXMusic</a>. All credits goes to devs of <a href="https://github.com/TechShreyash/SiestaXMusic/graphs/contributors">SiestaXMusic</a>.</h3>
+<img src="https://te.legra.ph/file/a748cc58ee5da020ba09f.jpg" align="right" width="200" height="200"/>
 
+# AAROHI SPECIAL MUSIC BOT <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-# AviaxMusic
+[Aarohi Music Bot](https://github.com/stkeditz/Yukki-more) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
-[AviaxMusic](https://github.com/TeamAviax/AviaxMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes.
-* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
-* Loop, Shuffle, Specific Skip, Playlists etc support
-* Global, Users, Chats Top 10 played tracks stats
+* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
+* Written from scratch, making it stable and less crashes with attractive thumbnails.
+* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
+
 
 
 # 🔗 An Overview
