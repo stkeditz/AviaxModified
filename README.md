@@ -23,18 +23,6 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the AviaxMusic, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
-
-
-
-# ⚡️ Getting Started
-
-### Before deploying AviaxMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
-
-> If you want to start working with AviaxMusic you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/AviaxSupport)
-
 ## 🖇 Heroku Deployment
 
 <h4>Click the button below to deploy AviaxMusic on Heroku!</h4>    
