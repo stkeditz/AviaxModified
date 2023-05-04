@@ -20,3 +20,10 @@
 The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
+
+#                    _____   ____  _    _ _____      _____ _____ _      
+#    /\        /\   |  __ \ / __ \| |  | |_   _|    |  __ \_   _| |     
+#   /  \      /  \  | |__) | |  | | |__| | | | __  _| |  | || | | |     
+#  / /\ \    / /\ \ |  _  /| |  | |  __  | | | \ \/ / |  | || | | |     
+# / ____ \  / ____ \| | \ \| |__| | |  | |_| |_ >  <| |__| || |_| |____ 
+#/_/    \_\/_/    \_\_|  \_\\____/|_|  |_|_____/_/\_\_____/_____|______|
