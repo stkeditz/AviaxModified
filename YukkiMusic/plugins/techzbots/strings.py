@@ -26,15 +26,15 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
+                text="📣 Updates Channel", url="https://t.me/HONEY_SINGH_121"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/AviaxSupport"
+                text="💬 Support Group", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", user_id=OWNER
+                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
@@ -53,15 +53,15 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/AviaxOfficial"
+                text="📣 Updates Channel", url="https://t.me/HONEY_SINGH_121"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/AviaxSupport"
+                text="💬 Support Group", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
+                text="🔗 Deploy your own bot", url="https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
