@@ -61,7 +61,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://t.me/HONEY_SINGH_121"
+                text="💝ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ]💝", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
