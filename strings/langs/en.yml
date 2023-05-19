@@ -204,8 +204,8 @@ lyrics_3 : "❌ Failed to fetch lyrics😭.\n\n💡**Tried Searching For:** {0}"
 lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam types lyrics search."
 
 #Ping
-ping_1 : "Pong!!!!"
-ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms."
+ping_1 : "Pong!!by Dil!!"
+ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage.\n\n Cpu load is about {4} with a consumption of {5} Ram.\n\n Py-Tgcalls client is also having a good ping of `{6}` ms."
 
 
 # Song
@@ -246,13 +246,13 @@ UNBAN_BUTTON : "🗑 Unban Assistant"
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
+S_B_1 : "ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅ[🥺]"
+S_B_2 : "sᴇᴛᴛɪɴɢs[🧐]"
+S_B_3 : "sᴜᴘᴘᴏʀᴛ[❣️]"
+S_B_4 : "ᴄʜᴀɴɴᴇʟ[❣️]"
+S_B_5 : "✚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʜᴇᴀᴠᴇɴ +"
+S_B_6 : "ʀᴇᴘᴏ ʟᴇɢᴀ"
+S_B_7 : "ᴏᴡɴᴇʀ[❣️]"
 S_B_8 : "🔎 How to Use? Commands Menu."
 
 #Help 
@@ -277,7 +277,7 @@ P_B_4 : "🎵 Play Playlist"
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
 PL_B_2 : "✚ Playlists"
-PL_B_3 : "🖇 Cpanel"
+PL_B_3 : "ᴄᴘᴀɴɴᴇʟ[❣️]"
 PL_B_4 : "📡 Play Mode"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
