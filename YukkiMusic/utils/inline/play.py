@@ -67,7 +67,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🏠 Support",
+                text="sᴜᴘᴘᴏʀᴛ[❣️]",
                 url="https://telegram.dog/AviaxSupport",
             ),
             InlineKeyboardButton(
@@ -122,7 +122,7 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🏠 Support",
+                text="sᴜᴘᴘᴏʀᴛ[❣️]",
                 url="https://telegram.dog/AviaxSupport",
             ),
             InlineKeyboardButton(
